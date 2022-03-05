@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# one-file-django-cdk
-=======
 
 # Welcome to your CDK Python project!
 
@@ -59,4 +56,3 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
->>>>>>> Initial commit
