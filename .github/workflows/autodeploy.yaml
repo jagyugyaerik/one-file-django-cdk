@@ -1,5 +1,5 @@
 name: Auto Deploy CDK
-on: [push]
+# on: [push]
 jobs:
   aws_cdk:
     env:
